@@ -7,7 +7,7 @@ h1 {font-family:Verdana, Arial, Helvetica, sans-serif;
 	font-size:medium;
 	font-variant:small-caps;
 	letter-spacing: 0.1em;
-	color: #614A74;
+	color: #3e3e3e;
 	border-color: #E9E9E9;
 	border-style:solid;
 	padding:5px;
@@ -18,7 +18,7 @@ h2 {font-family:Verdana, Arial, Helvetica, sans-serif;
     font-style:normal;
 	font-size:small;
 	letter-spacing: 0.1em;
-	color: #D7DF23;
+	color: #3e3e3e;
 	}
 p {font-family:Verdana, Arial, Helvetica, sans-serif;
     font-style:normal;
@@ -41,7 +41,7 @@ td {font-family:Verdana, Arial, Helvetica, sans-serif;
 	letter-spacing: 0.1em;
 	color: #614A74;
 	padding-left: 15px;
-	}
+	
 
 .rubrik:hover {
 	color:	#D7DF23;
