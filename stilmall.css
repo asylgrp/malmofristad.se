@@ -2,34 +2,32 @@ body {
 	background-color: #E9E9E9
 }
 
-h1 {font-family:Verdana, Arial, Helvetica, sans-serif;
+h1 {font-family: Tahoma, Geneva, sans-serif;
     font-style:normal;
-	font-size:medium;
-	font-variant:small-caps;
+	font-size:120%;
 	letter-spacing: 0.1em;
-	color: #3e3e3e;
+	color: #333;
 	border-color: #E9E9E9;
 	border-style:solid;
 	padding:5px;
 	background-color:#E9E9E9;
 	}
 	
-h2 {font-family:Verdana, Arial, Helvetica, sans-serif;
+h2 {font-family: Helvetica, sans-serif;
     font-style:normal;
-	font-size:small;
+	font-size:95%;
 	letter-spacing: 0.1em;
-	color: #3e3e3e;
+	color: #333;
 	}
 p {font-family:Verdana, Arial, Helvetica, sans-serif;
     font-style:normal;
-	font-size:10px;
-	letter-spacing: 0.1em;
+	font-size:70%;
 	color: #666;
 	}
 	
 td {font-family:Verdana, Arial, Helvetica, sans-serif;
     font-style:normal;
-	font-size:10px;
+	font-size:70%;
 	letter-spacing: 0.1em;
 	color: #666;
 	}
@@ -37,17 +35,14 @@ td {font-family:Verdana, Arial, Helvetica, sans-serif;
 .rubrik {font-family:Verdana, Arial, Helvetica, sans-serif;
     font-style:normal;
 	text-decoration:underline;
-	font-size:small;
+	font-size:85%;
 	letter-spacing: 0.1em;
-	color: #614A74;
-	padding-left: 15px;
-}
-	
+	color: #333;
+	}
+
 .rubrik:hover {
 	color:	#D7DF23;
 	background-color: #FFF;
-	padding-left: 31px;
-	padding-right:1px;
 	
 		}
 	
@@ -62,7 +57,7 @@ a {
 a:hover {
 	color: #FFF;
 	background-color: #D7DF23;
-	padding-left: 15px;
+	
 		}
 
 #helhet {
@@ -79,7 +74,7 @@ a:hover {
 	margin: auto;
 	margin-top: 20px;
 	background-color: transparent;
-	background-image:url(Sidhuvud.gif);
+	background-image:url(sidhuvud.gif);
          }
 		 
 #navigation {
@@ -102,7 +97,7 @@ a:hover {
 
 #bilder {width: 570px;
 		  padding-left: 20px;
-		    padding-right: 20px;
+		  padding-right: 20px;
 		  float: left;
 		  }
 		 
@@ -166,7 +161,7 @@ li {display: inline;
 	border-right-style: solid;
 	border-right-color: #FFF;
 	 padding: 8px;
-	 font-size:12px;
+	 font-size:75%;
 	 text-decoration: none;}
 	 
 ul {margin-top: 10px;
